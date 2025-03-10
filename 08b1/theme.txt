@@ -1,0 +1,45 @@
+NAME: War Room (Blue)
+AUTHOR: Lachlan McDonald
+COMMENT: A revised version of Uplink's default theme.
+
+;
+;	War Room (Blue)
+;	Created by Lachlan McDonald
+;	netnessie@gmail.com
+;
+;	v1.0
+;	July 1st, 2010
+; 
+
+
+; COLOURNAME           RED     GREEN   BLUE
+; ==============================================
+Background             0.035  0.039  0.070
+DefaultText            1      1      1
+DimmedText             0.600  0.600  0.600
+MenuText               0.768  1      1
+TitleText              1      1      1
+TextBorder             0.792  0.870  1
+
+ButtonNormalA          0.309  0.423  0.878
+ButtonNormalB          0.160  0.274  0.729
+ButtonHighlightedA     0.439  0.619  1
+ButtonHighlightedB     0.360  0.501  1
+ButtonClickedA         0.247  0.407  0.427
+ButtonClickedB         0.317  0.403  0.607
+
+PanelBackgroundA       0.180  0.196  0.341
+PanelBackgroundB       0.050  0.054  0.105
+PanelBorder            0.368  0.376  0.443
+PanelHighlightA        0.180  0.196  0.341
+PanelHighlightB        0.321  0.352  0.647
+PanelHighlightBorder   0.545  0.556  0.647
+
+DarkPanelA             0.180  0.196  0.341
+DarkPanelB             0.321  0.352  0.647
+
+PasswordBoxBackground  0.407  0.447  0.803
+
+;
+;
+;
